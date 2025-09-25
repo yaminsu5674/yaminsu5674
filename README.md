@@ -45,18 +45,17 @@
 
 <br>
 
-
 ✏ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 & 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐
 
 💙 ***Unreal Engine 5 C++*** <span style="color: #ADADAD">Game Client Development</span>  
-💜 ***DirectX 11*** <span style="color: #ADADAD">Graphics & Rendering Pipeline</span>  
-💚 ***Computer Science Foundations*** <span style="color: #ADADAD">STL, OS, CPU Scheduling</span>
+💜 ***OpenGL*** <span style="color: #ADADAD">Graphics & Rendering Pipeline</span>  
+💚 ***Computer Science Foundations*** <span style="color: #ADADAD">STL, OS, Network, Graphics</span>
 
 <br>
 
 🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/DirectX-008272?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
 
@@ -72,7 +71,6 @@
 <br>
 <br>
 
-
 🤲 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜
 
 `Competition` 🎮 ***2025 GameAIfy 공모전 참가*** <span style="color: #ADADAD0">2025</span>
@@ -84,7 +82,6 @@
 `Program` 🎮 ***2024 한국장학재단 멘토링*** <span style="color: #ADADAD0">2024</span>
 
 <br>
-
 
 <hr>
 <div align="center">
