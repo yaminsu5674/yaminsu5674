@@ -1,13 +1,11 @@
 <div align="center">
 
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎮yaminsu5674&fontSize=60&fontColor=ffffff&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎮yaminsu5674&fontSize=40&fontColor=ffffff&fontAlign=80)
 
 <br>
-  
-<a href="https://github.com/yaminsu5674"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaminsu5674&show_icons=true&theme=buefy&card_width=300" /></a>
-<a href="https://github.com/yaminsu5674?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaminsu5674&layout=compact&langs_count=8&card_width=300" /></a>
 
+<a href="https://github.com/yaminsu5674"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaminsu5674&show_icons=true&theme=buefy&card_width=300" /></a>
+<a href="https://github.com/yaminsu5674?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaminsu5674&layout=compact&langs_count=8&hide=Jupyter%20Notebook&card_width=300" /></a>
 
 </div>
 <br>
@@ -18,7 +16,6 @@
 <img height=200 align="center" src="https://streak-stats.demolab.com/?user=yaminsu5674&theme=buefy&border=E4E2E2&card_width=400" />
 
 </div>
-
 
 <br>
 
@@ -37,7 +34,7 @@
 
 ✈️ 𝙸'𝚖 𝚊
 
-`Aspiring` ***Unreal Engine C++ Game Client Developer*** <span style="color: #ADADAD0">2025~</span>
+***Unreal Engine C++ Game Client Developer*** <span style="color: #ADADAD0">2025~</span>
 
 <br>
 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗
@@ -70,17 +67,21 @@
 🌐 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 & 𝙻𝚒𝚗𝚔𝚜
 
 <img src="https://img.shields.io/badge/yaminsu5674@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">  
-<a href="https://yaminsu5674.github.io"> <img src="https://img.shields.io/badge/github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<a href="https://cosmodev.tistory.com/"> <img src="https://img.shields.io/badge/Tistory Blog-FF5747?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
 <br>
 <br>
 
 
-🤲 𝚆𝚘𝚛𝚔 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜
+🤲 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜
 
-`Internship / Projects` 🎮 ***Indie Game Development*** *Unreal Engine 5, C++* <span style="color: #ADADAD0">2024~</span>  
+`Competition` 🎮 ***2025 GameAIfy 공모전 참가*** <span style="color: #ADADAD0">2025</span>
 
-`Program` 👨‍💻 ***Software Maestro 15th*** <span style="color: #ADADAD">2024</span>
+`Competition` 🎮 ***교내 동아리 Revolution 게임잼 참가*** <span style="color: #ADADAD0">2025</span>
+
+`Program` 👨‍💻 ***Software Maestro 15th*** <span style="color: #ADADAD">2024</span>  
+
+`Program` 🎮 ***2024 한국장학재단 멘토링*** <span style="color: #ADADAD0">2024</span>
 
 <br>
 
@@ -90,7 +91,5 @@
 
   <br>
 <br>
-
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaminsu5674&theme=react&bg_color=ffffff&color=454343)](https://github.com/yaminsu5674/github-readme-activity-graph&theme=react)
