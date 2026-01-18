@@ -4,16 +4,11 @@
 
 <br>
 
-<a href="https://github.com/yaminsu5674"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaminsu5674&show_icons=true&theme=buefy&card_width=300" /></a>
-<a href="https://github.com/yaminsu5674?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaminsu5674&layout=compact&langs_count=8&hide=Jupyter%20Notebook&card_width=300" /></a>
-
 </div>
 <br>
 <div align="center">
 
 <img height=200 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yaminsu5674" />
-
-<img height=200 align="center" src="https://streak-stats.demolab.com/?user=yaminsu5674&theme=buefy&border=E4E2E2&card_width=400" />
 
 </div>
 
