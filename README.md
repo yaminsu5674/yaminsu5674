@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎮yaminsu5674&fontSize=40&fontColor=ffffff&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KimMinsu&fontSize=40&fontColor=ffffff&fontAlign=80)
 
 <br>
 
@@ -21,15 +21,10 @@
 <br>
 
 　[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yaminsu5674)](https://solved.ac/yaminsu5674) 　𝙼𝚒𝚗'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@𝚢𝚊𝚖𝚒𝚗𝚜𝚞5674*　📍 ***Daegu, South Korea***
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yaminsu5674)](https://solved.ac/yaminsu5674) 　𝙼𝚒𝚗'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@𝚢𝚊𝚖𝚒𝚗𝚜𝚞5674*　📍 ***Seoul, South Korea***
 
 <hr>
 
-<br>
-
-✈️ 𝙸'𝚖 𝚊
-
-***Unreal Engine C++ Game Client Developer*** <span style="color: #ADADAD0">2025~</span>
 
 <br>
 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗
